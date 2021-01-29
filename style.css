@@ -5,6 +5,17 @@ color:red;
 #carouselExampleDark
 {
  max-width:1170px ;
-  padding: 0px 15px;
+  padding: 20px 15px;
  margin: 0 auto;
 }
+
+.container-fluid {
+    max-width: 1170px;
+    padding: 0px 15px;
+}
+.row.row-cols-1.row-cols-md-3.g-4 {
+    max-width: 1170px;
+    padding: 0px 15px;
+    margin: 0 auto;
+}
+
