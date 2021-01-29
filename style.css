@@ -4,5 +4,6 @@ color:red;
 
 #carouselExampleDark
 {
- max-width:1170px 
+ max-width:1170px ;
+  padding: 0px 15px;
 }
